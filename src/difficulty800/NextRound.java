@@ -1,3 +1,5 @@
+package difficulty800;
+
 import java.util.Scanner;
 
 public class NextRound {
