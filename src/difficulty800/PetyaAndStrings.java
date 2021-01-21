@@ -1,6 +1,5 @@
 package difficulty800;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class PetyaAndStrings {
